@@ -1,88 +1,94 @@
 # Fluently
 
-Welcome to the Language Learning App! This platform is designed to help learners of all levels improve their language skills in a fun and efficient way. Whether you are just starting or already fluent and looking to perfect your abilities, this app provides a structured and interactive way to achieve your language goals.
-Table of Contents
+**Accelerate your language learning journey with personalized lessons, real-time progress tracking, and interactive practice tools. Learn, connect, and grow at your own pace!**
 
-    What is the Language Learning App?
-    Key Features
-    How It Works
-    Unlockable Features
-    Progress Tracking
-    Community and Interaction
-    How to Get Started
-    Technologies Behind the App
+## Table of Contents
 
-What is the Language Learning App?
+- [What is the Language Learning App?](#what-is-the-language-learning-app)
+- [Key Features](#key-features)
+- [How It Works](#how-it-works)
+- [Unlockable Features](#unlockable-features)
+- [Progress Tracking](#progress-tracking)
+- [Community and Interaction](#community-and-interaction)
+- [How to Get Started](#how-to-get-started)
+- [Technologies Behind the App](#technologies-behind-the-app)
 
-The Language Learning App is a web and mobile-friendly platform where users can learn new languages at their own pace. It offers tailored learning paths based on the user’s proficiency, provides interactive exercises, and tracks your progress over time.
-Key Features
+---
 
-    Tailored Learning Paths: Upon registering, you will be asked to select your current language level. The system will then adapt the content to your real skill level by embedding challenges and tests within exercises.
+## What is the Language Learning App?
 
-    Hidden Adaptive Exams: Throughout your learning journey, the app will discreetly assess your proficiency by giving you slightly more difficult questions mixed into your normal exercises. It uses these to accurately adjust your level as you progress.
+The **Language Learning App** is a web and mobile-friendly platform designed to help users learn new languages efficiently and engagingly. It provides tailored learning paths, interactive exercises, and real-time progress tracking to support learners of all levels.
 
-    Extra Credit Challenges: You can take on additional challenges for extra credit. These more difficult questions serve as the true exam to measure your skill.
+## Key Features
 
-    Unlocking New Content: As you progress and earn credits through completing exercises, you can unlock advanced lessons, new challenges, and special practice tools.
+- **Tailored Learning Paths**: Start with an initial proficiency level and receive personalized content that adapts as you progress.
+  
+- **Hidden Adaptive Exams**: Assess your real skill level through integrated challenges and tests embedded in regular exercises.
+  
+- **Extra Credit Challenges**: Take on additional tasks for extra credit, unlocking advanced lessons and special tools.
 
-    Voice Rooms and Group Chats: Engage with other learners or native speakers in voice rooms and group chats, where you can practice your language skills in real-time.
+- **Unlocking New Content**: Use earned credits to access advanced lessons, detailed feedback, and more practice tools.
 
-How It Works
+- **Voice Rooms and Group Chats**: Practice speaking with native speakers and other learners in real-time through voice rooms and group chats.
 
-    Registration and Initial Setup: After registering, you'll be asked about your current language proficiency level. The system will use this as a starting point, but it will subtly assess your actual level during your exercises.
+## How It Works
 
-    Learning and Testing: As you complete exercises, hidden tests will help the app understand your real skill level. If your actual level differs from what you stated, the app will gradually adjust without you noticing.
+1. **Registration and Initial Setup**: Register an account and specify your current language level. The app will adapt to your real proficiency over time.
 
-    Progressive Difficulty: Exercises will get progressively harder or easier depending on your performance, ensuring that you’re always learning at the right level.
+2. **Learning and Testing**: Complete exercises that include hidden tests to assess and adjust your skill level subtly.
 
-    Earn Credits: As you complete exercises and challenges, you will earn credits. These credits can be used to unlock advanced features or extend your time in voice rooms and group chats.
+3. **Earn Credits**: As you progress, earn credits to unlock advanced features and extend your access to interactive tools.
 
-    Access to Voice Rooms: Once you reach a certain level, you will unlock the ability to enter voice rooms where you can speak with other learners or even native speakers.
+4. **Voice Rooms**: Unlock voice rooms for live conversations with learners and native speakers as you reach specific milestones.
 
-Unlockable Features
+## Unlockable Features
 
-    Advanced Lessons: Unlock more complex lessons to deepen your language skills.
+- **Advanced Lessons**: Gain access to more complex lessons as you advance.
 
-    Extra Practice Tools: Access flashcards, quizzes, and grammar tools that provide more specific help on challenging topics.
+- **Extra Practice Tools**: Utilize additional resources like flashcards and quizzes for deeper learning.
 
-    Detailed Feedback: You can unlock detailed feedback on your exercises using credits or by paying for premium services.
+- **Detailed Feedback**: Receive comprehensive feedback on your performance with credits or premium access.
 
-    Voice Rooms and Group Chats: Join voice rooms to practice speaking with others or participate in group chats about language learning tips and cultural insights.
+- **Voice Rooms and Group Chats**: Join and participate in interactive voice rooms and group chats to practice and learn.
 
-Progress Tracking
+## Progress Tracking
 
-    Milestones: Track your achievements through visual milestones displayed in your profile, showing how far you’ve come.
+- **Milestones**: Track achievements with visual milestones displayed in your profile.
+  
+- **Visual Progress**: View a visual representation of your progress, including scores and level achievements.
+  
+- **Real-Time Updates**: Adjust learning paths based on real-time performance and engagement.
 
-    Visual Progress: Access a visual representation of your progress, including your score and overall level.
+## Community and Interaction
 
-    Real-Time Updates: Your learning path adjusts based on your performance in real time.
+- **Voice Rooms**: Engage in live conversations with other learners and native speakers using earned credits.
 
-Community and Interaction
+- **Tutoring**: Offer or schedule one-on-one tutoring sessions with learners, and earn money by sharing your expertise.
 
-    Voice Rooms: Engage in live conversations with learners and native speakers, using credits to extend your participation time.
+- **Group Chats**: Join or create group chats to discuss learning topics and practice conversational skills.
 
-    Tutoring: Become a tutor or find one to help you with one-on-one learning sessions. Tutors can earn money by scheduling lessons with learners who need extra help.
+## How to Get Started
 
-    Group Chats: Join or create group chats with other learners to discuss topics or practice conversational skills.
+1. **Sign Up**: Create an account and select your target language.
 
-How to Get Started
+2. **Set Your Level**: Indicate your current proficiency to begin with a tailored learning path.
 
-    Sign Up: Create an account with your email and select the language you want to learn.
+3. **Start Learning**: Engage with personalized content and complete exercises to earn credits.
 
-    Set Your Level: Tell the app what level you think you're at. The app will adjust this as you progress.
+4. **Unlock Features**: Use credits to access advanced features, voice rooms, and more.
 
-    Start Learning: Begin your personalized learning path. Complete exercises, answer challenges, and take on extra credit questions to improve your skills.
+5. **Track Progress**: Monitor your achievements and progress through your profile.
 
-    Unlock New Features: As you learn, you’ll earn credits to unlock new features like voice rooms, group chats, and advanced lessons.
+## Technologies Behind the App
 
-    Track Your Progress: See your progress reflected in your profile, with milestones and detailed feedback.
+- **Frontend**: Designed for a smooth experience across all devices, including mobile and desktop.
 
-Technologies Behind the App
+- **Backend**: Manages user authentication, learning paths, and data securely.
 
-    Frontend: Developed with a user-friendly interface that works smoothly on all devices, including mobile phones, tablets, and desktops.
+- **Database**: Utilizes PostgreSQL for efficient and secure data storage.
 
-    Backend: Handles user authentication, manages the learning path, and securely stores user data.
+- **Security**: Implements robust security measures to protect personal information.
 
-    Database: Uses a powerful database to keep your progress safe and secure.
+---
 
-    Security: Tight security protocols ensure that your personal data is safe.
+This app is crafted to make language learning accessible, engaging, and enjoyable. Join us today and embark on your language learning adventure!
