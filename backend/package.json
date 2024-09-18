@@ -1,0 +1,17 @@
+{
+  "name": "Fluently",
+  "version": "1.0.0",
+  "description": "Backend for language learning app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.6.5",
+    "pg": "^8.7.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
